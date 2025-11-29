@@ -7,8 +7,8 @@ import { MarkdownRenderer } from './MarkdownRenderer';
 import './chat.css';
 
 
-const llmService = new LLMService('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');
-const tableService = new TableService('uskqPznSd4V1OhURQNBKeRU');
+const llmService = new LLMService('YOUR LLM API');
+const tableService = new TableService('YOUR TABLE API');
 
 
 export const AiChatWidget = () => {
