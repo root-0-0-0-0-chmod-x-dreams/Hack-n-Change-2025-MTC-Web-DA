@@ -1,0 +1,44 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "iisKvLd13lf4sGjzCw9rvrF6fW0",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vEQw5blZRkCwfw4qUc415u8T2A4",
+      "id": "Ugwm7h3SlEeglo1Ssg94AaABAg",
+      "snippet": {
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "videoId": "D6TCMyCiyjo",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "_MXN1IyZK5R0DjSuzk1aAjb_0NY",
+          "id": "Ugwm7h3SlEeglo1Ssg94AaABAg",
+          "snippet": {
+            "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+            "videoId": "D6TCMyCiyjo",
+            "textDisplay": "mitm по старому)",
+            "textOriginal": "mitm по старому)",
+            "authorDisplayName": "@adiomtimur",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/51RNH_Fcts_-Bhkv8jQjbaiNGaUvqdos78pSMh3KYNfbvh1cTmYQuxD7RhO5OP9JCQSmDVyW=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adiomtimur",
+            "authorChannelId": {
+              "value": "UCGRRXuBDM2Tjtx079maTOhw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-07-11T17:00:55Z",
+            "updatedAt": "2025-07-11T17:00:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

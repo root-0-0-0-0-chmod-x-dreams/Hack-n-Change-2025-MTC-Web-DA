@@ -1,0 +1,17 @@
+[Unit]
+Description=Stats Collector Service
+After=network.target
+
+[Service]
+Type=simple
+User=www-data
+Group=www-data
+WorkingDirectory=/opt/stats-service
+Environment="PATH=/opt/stats-service/venv/bin"
+Environment="REQUESTS_CA_BUNDLE=/etc/ssl/certs/ca-certificates.crt"
+ExecStart=/opt/stats-service/venv/bin/gunicorn --workers 1 --timeout 120 --bind 127.0.0.1:5000 stats_service:app
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

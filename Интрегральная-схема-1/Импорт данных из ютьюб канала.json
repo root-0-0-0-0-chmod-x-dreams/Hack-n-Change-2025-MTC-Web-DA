@@ -1,0 +1,292 @@
+{
+    "name": "Импорт данных из ютьюб канала",
+    "type": "complex",
+    "compiled": {
+        "activities": [
+            {
+                "id": "activity-1",
+                "type": "inject",
+                "scoped": false,
+                "description": "Константы HOST, API_KEY, SOURCE_TABLE, RESULT_TABLE, SERVER_URL",
+                "transition": "activity-2",
+                "injectData": {
+                    "API_KEY": "uskJLBRU4KQNA3gCDmlSaCT",
+                    "HOST": "https://tables.mws.ru",
+                    "SERVER_URL": "https://example.ru/stats",
+                    "SOURCE_TABLE": {
+                        "DST_ID": "dstqvP2cewnU599XuC",
+                        "VIEW_ID": "viww2SGAriYPf"
+                    },
+                    "RESULT_TABLE": {
+                        "DST_ID": "dstjtTTLuHmAnewaEu"
+                    }
+                }
+            },
+            {
+                "id": "activity-2",
+                "type": "workflow_call",
+                "scoped": false,
+                "description": "Запрос к таблице источников данных",
+                "transition": "activity-3",
+                "workflowCall": {
+                    "workflowDef": {
+                        "type": "rest_call",
+                        "details": {
+                            "outputValidateSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "code": {
+                                        "type": "number"
+                                    },
+                                    "success": {
+                                        "type": "boolean"
+                                    },
+                                    "message": {
+                                        "type": "string"
+                                    },
+                                    "data": {
+                                        "type": "object",
+                                        "properties": {
+                                            "total": {
+                                                "type": "number"
+                                            },
+                                            "pageNum": {
+                                                "type": "number"
+                                            },
+                                            "pageSize": {
+                                                "type": "number"
+                                            },
+                                            "records": {
+                                                "type": "array",
+                                                "items": {
+                                                    "type": "object",
+                                                    "properties": {
+                                                        "recordId": {
+                                                            "type": "string"
+                                                        },
+                                                        "fields": {
+                                                            "type": "object"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "restCallConfig": {
+                                "restCallTemplateDef": {
+                                    "method": "GET",
+                                    "url": "jp{HOST}/fusion/v1/datasheets/jp{SOURCE_TABLE.DST_ID}/records?viewId=jp{SOURCE_TABLE.VIEW_ID}&fieldKey=name",
+                                    "bodyTemplate": {},
+                                    "headers": {
+                                        "Authorization": "Bearer jp{API_KEY}"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "outputFilter": {
+                    "records": "jp{body.data.records}"
+                }
+            },
+            {
+                "id": "activity-3",
+                "type": "inject",
+                "scoped": false,
+                "description": "Извлечение youtube_channel из records",
+                "transition": "activity-4",
+                "injectData": {
+                    "youtube_channel": "lua{for _, record in ipairs(records) do local name = record.fields['Название'] if name == 'Youtube канал' then local url = record.fields.URL if url and url.text then return string.match(url.text, '@([^/]+)') end end end return nil}lua"
+                }
+            },
+            {
+                "id": "activity-4",
+                "type": "workflow_call",
+                "scoped": false,
+                "description": "POST запрос на example.ru для сбора статистики (синхронный)",
+                "transition": "activity-5",
+                "workflowCall": {
+                    "workflowDef": {
+                        "type": "rest_call",
+                        "details": {
+                            "outputValidateSchema": {
+                                "type": "object",
+                                "properties": {
+                                    "records": {
+                                        "type": "array"
+                                    },
+                                    "fieldKey": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "restCallConfig": {
+                                "restCallTemplateDef": {
+                                    "method": "POST",
+                                    "url": "jp{SERVER_URL}/collect",
+                                    "bodyTemplate": "{\"source_type\": \"Youtube канал\", \"channel_alias\": \"jp{youtube_channel}\"}",
+                                    "headers": {
+                                        "Content-Type": "application/json"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "outputFilter": {
+                    "mws_request_body": "jp{body}"
+                }
+            },
+            {
+                "id": "activity-5",
+                "type": "workflow_call",
+                "scoped": false,
+                "description": "POST запрос к таблице результатов для записи статистики",
+                "workflowCall": {
+                    "workflowDef": {
+                        "type": "rest_call",
+                        "details": {
+                            "restCallConfig": {
+                                "restCallTemplateDef": {
+                                    "method": "POST",
+                                    "url": "jp{HOST}/fusion/v1/datasheets/jp{RESULT_TABLE.DST_ID}/records?fieldKey=name",
+                                    "bodyTemplate": "jp{mws_request_body}",
+                                    "headers": {
+                                        "Authorization": "Bearer jp{API_KEY}",
+                                        "Content-Type": "application/json"
+                                    },
+                                    "authDef": {
+                                        "type": "oauth2",
+                                        "oauth2": {
+                                            "grantType": "client_credentials"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "start": "activity-1"
+    },
+    "flowEditorConfig": {
+        "startMetadata": {
+            "position": {
+                "x": 34,
+                "y": 110
+            },
+            "isDeveloperMode": false,
+            "isDeveloperModeVerify": false,
+            "isDeveloperModeError": false,
+            "developerModeErrors": []
+        },
+        "activityMetadata": {
+            "activity-1": {
+                "position": {
+                    "x": 197.5,
+                    "y": 110
+                },
+                "mock": {
+                    "data": {
+                        "result": {}
+                    }
+                },
+                "isDeveloperMode": false,
+                "isDeveloperModeVerify": false,
+                "isDeveloperModeError": false,
+                "developerModeErrors": []
+            },
+            "activity-2": {
+                "position": {
+                    "x": 406.5,
+                    "y": 110
+                },
+                "mock": {
+                    "data": {
+                        "bodyExample": {},
+                        "bodySchema": {},
+                        "headers": {}
+                    }
+                },
+                "ims": [
+                    ""
+                ],
+                "imsActivityProduct": {},
+                "isDeveloperMode": false,
+                "isDeveloperModeVerify": false,
+                "isDeveloperModeError": false,
+                "developerModeErrors": []
+            },
+            "activity-3": {
+                "position": {
+                    "x": 615.5,
+                    "y": 110
+                },
+                "mock": {
+                    "data": {
+                        "result": {}
+                    }
+                },
+                "isDeveloperMode": false,
+                "isDeveloperModeVerify": false,
+                "isDeveloperModeError": false,
+                "developerModeErrors": []
+            },
+            "activity-4": {
+                "position": {
+                    "x": 824.5,
+                    "y": 110
+                },
+                "mock": {
+                    "data": {
+                        "bodyExample": {},
+                        "bodySchema": {},
+                        "headers": {}
+                    }
+                },
+                "ims": [
+                    ""
+                ],
+                "imsActivityProduct": {},
+                "isDeveloperMode": false,
+                "isDeveloperModeVerify": false,
+                "isDeveloperModeError": false,
+                "developerModeErrors": []
+            },
+            "activity-5": {
+                "position": {
+                    "x": 1038.6749533328734,
+                    "y": 108.27501555570882
+                },
+                "mock": {
+                    "data": {
+                        "bodyExample": {},
+                        "bodySchema": {},
+                        "headers": {}
+                    }
+                },
+                "ims": [
+                    ""
+                ],
+                "imsActivityProduct": {},
+                "isDeveloperMode": false,
+                "isDeveloperModeVerify": false,
+                "isDeveloperModeError": false,
+                "developerModeErrors": []
+            }
+        },
+        "imsSchemaProduct": {},
+        "horizontalLayout": true
+    },
+    "details": {
+        "starters": [
+            {
+                "type": "rest_call"
+            }
+        ]
+    },
+    "tenantId": "default"
+}

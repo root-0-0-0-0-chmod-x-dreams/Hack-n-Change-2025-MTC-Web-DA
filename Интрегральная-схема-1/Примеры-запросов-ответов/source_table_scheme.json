@@ -1,0 +1,101 @@
+// Response json
+{
+  "code": 200,
+  "success": true,
+  "message": "Request successful",
+  "data": {
+    "total": 3,
+    "pageNum": 1,
+    "pageSize": 3,
+    "records": [
+      {
+        "recordId": "recVjpQPNnJvY",
+        "fields": {
+          "Название": "Яндекс Метрики",
+          "URL": {
+            "title": "https://api-metrika.yandex.net",
+            "text": "https://api-metrika.yandex.net",
+            "favicon": ""
+          }
+        }
+      },
+      {
+        "recordId": "recRe1nXR54hl",
+        "fields": {
+          "Название": "Youtube канал",
+          "URL": {
+            "title": "https://www.youtube.com/@MTCWebServices",
+            "text": "https://www.youtube.com/@MTCWebServices",
+            "favicon": ""
+          }
+        }
+      }
+    ]
+  }
+}
+
+// Response JSON Scheme
+
+{
+  "type": "object",
+  "properties": {
+    "code": {
+      "type": "number"
+    },
+    "success": {
+      "type": "boolean"
+    },
+    "message": {
+      "type": "string"
+    },
+    "data": {
+      "type": "object",
+      "properties": {
+        "total": {
+          "type": "number"
+        },
+        "pageNum": {
+          "type": "number"
+        },
+        "pageSize": {
+          "type": "number"
+        },
+        "records": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "recordId": {
+                "type": "string"
+              },
+              "fields": {
+                "type": "object",
+                "properties": {
+                  "Название": {
+                    "type": "string"
+                  },
+                  "URL": {
+                    "type": "object",
+                    "properties": {
+                      "title": {
+                        "type": "string"
+                      },
+                      "text": {
+                        "type": "string"
+                      },
+                      "favicon": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+// Added data to local variables
+{"records":"jp{body.data.records}"}

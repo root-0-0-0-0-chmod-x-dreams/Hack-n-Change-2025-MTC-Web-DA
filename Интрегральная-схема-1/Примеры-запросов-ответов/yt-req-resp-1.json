@@ -1,0 +1,52 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DVfypOXfAtV3GoNI95AXwj0WRFs",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 155,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YUVdwPHI2BRPhsSCBAg6LdN3lLs",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s3gMHo8m4F1kg7JNfKCTnCGbQ5Y",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL8pIeULWZdYFjtp_eMQ9I5bINrve9-8ir"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e4RM1NZzfpKAE8Ykk16UMwMhLUk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cd4OZqOL4CE"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CToaW5syk1bkw8SSG2l1i3SS2cg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eXDEs1boK6U"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sRy9aPKWBq0C2XI6ZTaKxF1m0ko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g9rS4NrXm8k"
+      }
+    }
+  ]
+}

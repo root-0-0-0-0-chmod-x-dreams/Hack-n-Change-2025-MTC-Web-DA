@@ -1,0 +1,2561 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "gaRuktdlpOG9Pe6fNws0ShLND_k",
+  "nextPageToken": "EAAaHlBUOkNESWlFRUpEUVRVek5qTkZPREpGUkRjNFEwSQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2P1vSIBEU8eQ_v27SAFwrhSA6Z4",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmNkNE9acU9MNENF",
+      "snippet": {
+        "publishedAt": "2025-11-28T14:05:01Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Как создать умных AI‑агентов: работа с MCP»",
+        "description": "На вебинаре вы узнаете, как работать с протоколом Model Context Protocol (MCP), который помогает агентам эффективно взаимодействовать с API и другими системами.\n\nСпикеры:\nЕвгений Лукин, CPO MWS Octapi\nСергей Клюев, Tech Lead MWS Octapi\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cd4OZqOL4CE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cd4OZqOL4CE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cd4OZqOL4CE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cd4OZqOL4CE/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cd4OZqOL4CE/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cd4OZqOL4CE"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "cd4OZqOL4CE",
+        "videoPublishedAt": "2025-11-28T14:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "emRegaLzXZMPycf0w9_nhYYfI4Y",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkxuR2ExXzlYLURV",
+      "snippet": {
+        "publishedAt": "2025-11-27T09:19:27Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "КИБЕРликБЕЗ: принципы безопасности сети",
+        "description": "В новом выпуске подкаста КИБЕРликБЕЗ обсуждаем концепцию и принципы сетевой безопасности.\n\n\nСпикеры разбирают типичные уязвимости сетей, способы противодействия DDoS-атакам, проблемы разделения доступов в облачных сервисах и кейсы защиты облачной инфраструктуры. \n\n\nГости выпуска:\n•\u200e Павел Пархомец, Deputy CISO, Head of Infrastructure Security & SOC Wildberries & Russ \n•\u200e Роман Ермаков, Technical Product Owner, Security Services MWS\n•\u200e Димитрий Муштаков, Product Owner MWS\n\n\nТайм-коды: \n00:02:06 Основные угрозы и методы защиты сетей: сегментация, изоляция, микросегментация, концепция тировости и DMZ.\n00:08:48 Что такое DMZ, изоляция АСУТП и особенности архитектуры безопасности с уровнями доверия.\n00:16:00 Использование TLS и mTLS для взаимной аутентификации и безопасного обмена данными между сервисами.\n00:21:30 Современные подходы к безопасности: отказ от классического VPN, переход к TLS-прокси и использование TPM.\n00:26:50 Проблемы VPN в масштабировании и управлении доступом, особенности безопасности в публичных облаках.\n00:33:00 Security groups и микросегментация в облаке, управление доступом на уровне control plane.\n00:39:00 Сетевая безопасность в Kubernetes.\n00:48:50 Защита от DDoS-атак.\n\n\nПрисоединяйтесь к нам в соцсетях:\nTelegram – https://t.me/MTSWebServices\nVK – https://vk.com/mtswebservices",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LnGa1_9X-DU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LnGa1_9X-DU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LnGa1_9X-DU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LnGa1_9X-DU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LnGa1_9X-DU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LnGa1_9X-DU"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "LnGa1_9X-DU",
+        "videoPublishedAt": "2025-11-27T09:19:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W5qs6fnbOkTA0D41MiLlj6Udvhw",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lmc5clM0TnJYbThr",
+      "snippet": {
+        "publishedAt": "2025-11-25T21:01:59Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Защити свой бизнес за 60 минут: просто о бэкапах и безопасности данных»",
+        "description": "Поговорим о том, как резервное копирование помогает сформировать защищенный архив данных и обеспечивает их удобное восстановление. \n\nСпикеры:\nПавел Брагин -  Руководитель стрима «\u200eВычисление, хранение и кибербезопасность» MWS\nСергей Шаров - Менеджер по развитию облачного направления\n\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g9rS4NrXm8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g9rS4NrXm8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9rS4NrXm8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g9rS4NrXm8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g9rS4NrXm8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g9rS4NrXm8k"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "g9rS4NrXm8k",
+        "videoPublishedAt": "2025-11-25T21:01:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jIEKARSX3NfaejnjB6KXVfowwqU",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnlTTFNDek53MlA4",
+      "snippet": {
+        "publishedAt": "2025-11-17T10:44:40Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Трейлер реалити-проекта Building the Cloud",
+        "description": "Building the Cloud — инженерный видеосериал в формате реалити о создании\nMWS Cloud Platform и её архитектуре изнутри.\nНовые выпуски — на странице проекта: https://mws.ru/building-the-cloud/?utm_source=trailer\n\nВ каждом выпуске разбираем, как работают сервисы нового облака под капотом, делимся реальными инженерными решениями и общаемся со зрителями в прямом эфире.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ySLSCzNw2P8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ySLSCzNw2P8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ySLSCzNw2P8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ySLSCzNw2P8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ySLSCzNw2P8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ySLSCzNw2P8"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "ySLSCzNw2P8",
+        "videoPublishedAt": "2025-11-17T10:44:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mHrNdgSXhIMku0PARgswoBWGJoE",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmVYREVzMWJvSzZV",
+      "snippet": {
+        "publishedAt": "2025-11-13T14:19:42Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Как дата-центры изменили рынок обработки данных»",
+        "description": "Приглашаем вас на онлайн-дискуссию, где мы поговорим о перспективах развития дата-центров и о технологиях, которые меняют индустрию ЦОД уже сегодня.\n\nОлег Замчалов, Владелец продукта «Виртуальная инфраструктура», MWS\nАлександр Тишкин, Руководитель Центра сервисов ЦОД, MWS\nПавел Брагин, Руководитель стрима «Вычисление, хранение и кибербезопасность», MWS\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eXDEs1boK6U/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eXDEs1boK6U/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXDEs1boK6U/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eXDEs1boK6U/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eXDEs1boK6U/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eXDEs1boK6U"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "eXDEs1boK6U",
+        "videoPublishedAt": "2025-11-13T14:19:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eWDu5eOD9TVR16n0k4orNL8cGpc",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lk01TU5nN09sWUdv",
+      "snippet": {
+        "publishedAt": "2025-11-13T13:41:03Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Детекция дипфейков: от теории к практике»",
+        "description": "На вебинаре вы узнаете, как разработчики повышали точность детектора, как работает голосовой антиспуфинг и какие проблемы приходилось решать при внедрении — глазами разработчика и клиента\n\nТатьяна Дешкина – Директор портфеля продуктов, VisionLabs \nИван Дулов – Старший менеджер продукта Audiogram, MWS AI \nИгумнова Евгения – Коммерческий руководитель группы продуктов МТС ID, МТС ID KYC \n\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M5MNg7OlYGo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M5MNg7OlYGo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M5MNg7OlYGo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M5MNg7OlYGo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M5MNg7OlYGo/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M5MNg7OlYGo"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "M5MNg7OlYGo",
+        "videoPublishedAt": "2025-11-13T13:41:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cCijRHfYXD8m_J8122FNUmi9naE",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LjFpR0kxZGRFMWJF",
+      "snippet": {
+        "publishedAt": "2025-11-12T10:46:53Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Как навести порядок в ИТ‑инфраструктуре с командой профессиональных сервисов | Павел Брагин",
+        "description": "Доклад из бизнес-трека конференции MWS Cloud Day '25\n\nСпикер: Павел Брагин, CPO Облака на базе VMware, Head of Professional Services MWS Cloud\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nСовременные компании сталкиваются с ростом сложности ИТ-среды, нехваткой ресурсов и рисками безопасности. В докладе рассказываем, как профессиональные сервисы помогают организациям навести порядок в инфраструктуре, оптимизировать затраты и безопасно перейти в облако. Вы узнаете, как шаг за шагом — от аудита до внедрения инноваций — выстроить управляемую, масштабируемую и защищённую ИТ-среду, сократить time to market и снизить расходы на инфраструктуру",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1iGI1ddE1bE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1iGI1ddE1bE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1iGI1ddE1bE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1iGI1ddE1bE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1iGI1ddE1bE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1iGI1ddE1bE"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "1iGI1ddE1bE",
+        "videoPublishedAt": "2025-11-12T10:46:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R-poGpXYIPeTSy3re-V7Ci4ytQk",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnpQb0hucDhtRHVz",
+      "snippet": {
+        "publishedAt": "2025-11-12T09:33:12Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Как быть быстрее и инновационнее конкурентов без капитальных вложений | Крестина Андреева",
+        "description": "Доклад из бизнес-трека конференции MWS Cloud Day '25\n\nСпикер: Крестина Андреева, руководитель центра Data, ML и AI, MWS Cloud\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nВ условиях растущей конкуренции бизнесу важно не замораживать инновации, а ускорять их. В докладе рассказываем, как использовать облако как среду для экспериментов — от внедрения ИИ-сотрудников до тестирования новых продуктов — без капитальных затрат и с измеримым эффектом. Разбираем, как компании выстраивают процесс непрерывных экспериментов, сокращают цикл вывода идей в продакшн и повышают эффективность команд за счёт облачных инструментов",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPoHnp8mDus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPoHnp8mDus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPoHnp8mDus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zPoHnp8mDus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zPoHnp8mDus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zPoHnp8mDus"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "zPoHnp8mDus",
+        "videoPublishedAt": "2025-11-12T09:33:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wwh3KCor2rHY_NCz2l9gKw-3zGQ",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lkx2RXcySDBPX1hZ",
+      "snippet": {
+        "publishedAt": "2025-11-12T08:54:47Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Объектное хранилище. Больше чем «много, дёшево и надёжно» | Александр Курасов",
+        "description": "Доклад из бизнес-трека конференции MWS Cloud Day '25\n\nСпикер: Александр Курасов, руководитель продуктового направления PaaS, MWS Cloud Platform\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nОбъектное хранилище перестало быть только «долгим складом» для резервных копий. Сегодня это универсальный строительный блок облачных решений: от доставки контента через CDN до организации пайплайнов обработки больших данных. В докладе рассказываем, как S3-совместимые хранилища используются компаниями для создания надёжных и масштабируемых сервисов и какие новые возможности они открывают для бизнеса",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LvEw2H0O_XY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LvEw2H0O_XY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LvEw2H0O_XY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LvEw2H0O_XY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LvEw2H0O_XY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LvEw2H0O_XY"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "LvEw2H0O_XY",
+        "videoPublishedAt": "2025-11-12T08:54:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lr7uRuxeTYHZuE6WKqKe4__vRNI",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmR2VXpBa2xval9R",
+      "snippet": {
+        "publishedAt": "2025-11-11T20:58:10Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Cloud SD-WAN: сокращаем затраты на управление сетевой инфраструктурой без потери качества",
+        "description": "__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dvUzAkloj_Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dvUzAkloj_Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dvUzAkloj_Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dvUzAkloj_Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dvUzAkloj_Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dvUzAkloj_Q"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "dvUzAkloj_Q",
+        "videoPublishedAt": "2025-11-11T20:58:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "x0aiIQoxt-WcUwhyIsVQNc63x1E",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LjFRTTZLbk5hZjNz",
+      "snippet": {
+        "publishedAt": "2025-11-11T15:36:18Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Cost of Ownership: LLM in-house vs SaaS | Павел Бабин",
+        "description": "Доклад из бизнес-трека конференции MWS Cloud Day '25\n\nСпикер: Павел Бабин, CPO MWS GPT\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nОбсуждаем, что дороже — иметь LLM-инхаус или использовать облачный сервис. Вы узнаете, сколько реально стоит владение таким сервисом и какие неочевидные оптимизации мы применяем, чтобы сохранять для клиента оптимальную цену",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1QM6KnNaf3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1QM6KnNaf3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1QM6KnNaf3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1QM6KnNaf3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1QM6KnNaf3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1QM6KnNaf3s"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "1QM6KnNaf3s",
+        "videoPublishedAt": "2025-11-11T15:36:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i-9dz9fJGrz8p8JX8-WeZ2hjDgE",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lk9tVlZ2TmlKNUZR",
+      "snippet": {
+        "publishedAt": "2025-11-11T14:34:29Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Ключевые тренды облачной кибербезопасности | Виктор Бобыльков",
+        "description": "Доклад из бизнес-трека конференции MWS Cloud Day '25\n\nСпикер: Виктор Бобыльков, CISO MWS\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nГоворим о ключевых изменениях в облачной кибербезопасности, которые стали наиболее актуальными и популярными в 2025 году: AI, Zero Trust, Cloud-Native Security и многом другом. Делаем прогнозы о том, как изменятся подходы к защите облачных инфраструктур в 2026 году",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmVVvNiJ5FQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmVVvNiJ5FQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmVVvNiJ5FQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OmVVvNiJ5FQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OmVVvNiJ5FQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OmVVvNiJ5FQ"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "OmVVvNiJ5FQ",
+        "videoPublishedAt": "2025-11-11T14:34:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lR8Y08PRIB9KQaxmMCl-CxqUl0s",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkNYQ01OTTRhWG9j",
+      "snippet": {
+        "publishedAt": "2025-11-11T13:42:25Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Зрелые практики с первого дня: как мы строим надёжное облако | Александр Стерлигов",
+        "description": "Доклад из бизнес-трека конференции MWS Cloud Day '25\n\nСпикер: Александр Стерлигов, руководитель направления Execution Excellence, MWS Cloud Platform\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nОблачная инфраструктура — это фундамент бизнеса наших клиентов, и доверие к ней возможно только при высокой надёжности. Запуская новый облачный продукт, мы с первого дня внедряем зрелые практики управления на уровне ведущих игроков рынка. В докладе показываем, как подходы SRE и ITIL помогают избежать «детских болезней» и с самого начала обеспечить предсказуемость, устойчивость и уверенность клиентов в платформе",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CXCMNM4aXoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CXCMNM4aXoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CXCMNM4aXoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CXCMNM4aXoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CXCMNM4aXoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CXCMNM4aXoc"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "CXCMNM4aXoc",
+        "videoPublishedAt": "2025-11-11T13:42:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xHwIhF8wiSu5APB_gINPIzk6QYM",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkpycmNYUFVHcUtF",
+      "snippet": {
+        "publishedAt": "2025-11-11T12:42:38Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Универсальная cloud-экосистема: как гибрид и мультиклауд становятся новой нормой | Михаил Тутаев",
+        "description": "Доклад из бизнес-трека конференции MWS Cloud Day '25\n\nСпикер: Михаил Тутаев, CPO MWS\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nВ современных реалиях бизнес всё чаще сталкивается с необходимостью гибко строить свой ИТ-ландшафт. Гибридные и мультиклауд-решения — это не технологическая прихоть, а стратегическая необходимость, они снижают риски зависимости от одного вендора, обеспечивают удобное масштабирование и оптимизацию совокупной стоимости владения (TCO). Обсуждаем, как выглядит универсальная cloud-экосистема, способная стать надёжной опорой для бизнеса — ускорять вывод продуктов на рынок и гарантировать соответствие регуляторным и операционным требованиям",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JrrcXPUGqKE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JrrcXPUGqKE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JrrcXPUGqKE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JrrcXPUGqKE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JrrcXPUGqKE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JrrcXPUGqKE"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "JrrcXPUGqKE",
+        "videoPublishedAt": "2025-11-11T12:42:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fq5xzPdj61L1KCo-kAMiXl8kzTc",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkZzUlNKaG1VTTVF",
+      "snippet": {
+        "publishedAt": "2025-11-11T12:11:30Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Нейросети за кадром: как ИИ меняет киноиндустрию",
+        "description": "Панельная дискуссия конференции MWS Cloud Day '25\n\nСпикеры: \n• Игорь Зарубинский, исполнительный директор MWS, CEO MWS Cloud\n• Анна Протоковило, режиссёр, директор видеопродакшена standup_view\n• Дмитрий Алексеев, режиссёр, сценарист, автор канала AI Filmmaker\n• Наталья Мариевская, доктор искусствоведения, профессор ВГИК\n\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nПанельная дискуссия посвящена роли искусственного интеллекта в современном кинопроизводстве. Участники обсуждают, как ИИ помогает режиссёрам и сценаристам, какие творческие и технические достижения уже стали возможны и как сохранить индивидуальность авторского стиля в эпоху нейроконтента. В центре внимания — новые формы взаимодействия человека и нейросетей, а также будущее киноиндустрии",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FsRSJhmUM5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FsRSJhmUM5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FsRSJhmUM5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FsRSJhmUM5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FsRSJhmUM5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FsRSJhmUM5E"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "FsRSJhmUM5E",
+        "videoPublishedAt": "2025-11-11T12:11:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E0h8zSuJZ-3M42AYvhBsfx34gUQ",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnhMa0xMZE1SZDhZ",
+      "snippet": {
+        "publishedAt": "2025-11-11T10:55:52Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "AI — эволюция облака, а не опция | Никита Казарян",
+        "description": "Доклад из технического трека конференции MWS Cloud Day '25\n\nСпикер: Никита Казарян, руководитель направлений Security Platform и AI Automation, MWS\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nИскусственный интеллект перестал быть экспериментом и становится неотъемлемой частью облачных платформ. В докладе разбираем, как мы в MWS будем строить AI-сервисы вокруг LLM, от инфраструктуры до практических кейсов. Показываем, что AI — это не отдельный инструмент, а новый этап эволюции облака, который уже формирует будущие продукты и сервисы",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xLkLLdMRd8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xLkLLdMRd8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xLkLLdMRd8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xLkLLdMRd8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xLkLLdMRd8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xLkLLdMRd8Y"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "xLkLLdMRd8Y",
+        "videoPublishedAt": "2025-11-11T10:55:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VlH4yZsrZzw5jbO2CfGAQuQV-IA",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnR1OVZRVHdrR3pj",
+      "snippet": {
+        "publishedAt": "2025-11-11T10:08:52Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Очередная платформа данных. Что на этот раз? | Дмитрий Черёмухин",
+        "description": "Доклад из технического трека конференции MWS Cloud Day '25\n\nСпикер: Дмитрий Черёмухин, руководитель направления Data Platform, MWS Cloud Platform\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nНа рынке десятки решений для работы с данными — зачем строить ещё одно? В этом докладе рассказываем, зачем создаём собственную платформу данных в MWS Cloud Platform и какие возможности она открывает. Говорим про архитектуру и первые сервисы, а также делимся планами развития направления",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tu9VQTwkGzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tu9VQTwkGzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tu9VQTwkGzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tu9VQTwkGzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tu9VQTwkGzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tu9VQTwkGzc"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "tu9VQTwkGzc",
+        "videoPublishedAt": "2025-11-11T10:08:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TotceufrkcON_oHvsPcTHTZ8nXU",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LlhuWWtDdk9WNnZF",
+      "snippet": {
+        "publishedAt": "2025-11-11T09:25:09Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Secure-by-design cloud: как мы делаем облако безопасным | Кирилл Беспалов",
+        "description": "Доклад из технического трека конференции MWS Cloud Day '25\n\nСпикер: Кирилл Беспалов, руководитель направления Crypto Services, MWS Cloud Platform\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nСовременное облако должно удовлетворять самым высоким требованиям по безопасности. В докладе разбираем, что мы делаем для того, чтобы наши клиенты чувствовали себя защищёнными. Рассматриваем обеспечение безопасности самой инфраструктуры облака и инструменты безопасности, которые мы предоставляем клиентам",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XnYkCvOV6vE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XnYkCvOV6vE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnYkCvOV6vE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XnYkCvOV6vE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XnYkCvOV6vE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XnYkCvOV6vE"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "XnYkCvOV6vE",
+        "videoPublishedAt": "2025-11-11T09:25:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pVNklj8AEZm5JvW8PvHP8wifkh4",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LjJ5Y3M3d0g3dy0w",
+      "snippet": {
+        "publishedAt": "2025-11-10T17:08:42Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Построение честного PaaS: Managed Kubernetes в облаке | Андрей Дикий",
+        "description": "Доклад из технического трека конференции MWS Cloud Day '25\n\nСпикер: Андрей Дикий, CTO Container Ecosystem, MWS Cloud Platform\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nДоклад о создании Managed Kubernetes в MWS Cloud Platform. Рассказываем, как мы разрабатываем сервис на базе Cluster API, следуя принципам честного PaaS. Рассматриваем архитектуру и базовые принципы, по которым строится сервис",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ycs7wH7w-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ycs7wH7w-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ycs7wH7w-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2ycs7wH7w-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2ycs7wH7w-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2ycs7wH7w-0"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "2ycs7wH7w-0",
+        "videoPublishedAt": "2025-11-10T17:08:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VMlmFU6zNd9lFYEnGiUsFn8hKnc",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Llhfb19VNkdJcW9V",
+      "snippet": {
+        "publishedAt": "2025-11-10T16:41:39Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Простые сложные сети  | Ренат Ахмеров",
+        "description": "Доклад из технического трека конференции MWS Cloud Day '25\n\nСпикер: Ренат Ахмеров, руководитель направления VPC, MWS Cloud Platform\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nЧто делает облако по-настоящему живым и единым? Если Compute — сердце облака, то сеть — его кровеносная система. В нашем докладе — ключевые принципы построения этой системы. Мы показываем, как сложная сетевая инфраструктура превращается в простые и понятные сервисы, которые дают пользователю неограниченную гибкость",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X_o_U6GIqoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X_o_U6GIqoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X_o_U6GIqoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X_o_U6GIqoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X_o_U6GIqoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X_o_U6GIqoU"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "X_o_U6GIqoU",
+        "videoPublishedAt": "2025-11-10T16:41:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-Jhg6Zc5RRVPOXCZGIg01xETI-8",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkFPYjQ1aWwweXdz",
+      "snippet": {
+        "publishedAt": "2025-11-10T14:52:25Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Премьера MWS Cloud Platform",
+        "description": "Встречайте MWS Cloud Platform. В 2023 г. мы сформулировали для себя амбициозную задачу — построить новое облако компании MWS. Для решения этой задачи мы собрали одну из сильнейших инженерных команд на рынке. Опираясь на мощную телеком-инфраструктуру МТС и экспертизу команды, мы разработали платформу, ориентированную на потребности бизнеса любого размера и удобную для разработчиков одновременно. Архитектура платформы изначально спроектирована для решения высокопроизводительных задач — таких как построение платформ данных и работа с большими языковыми моделями (LLM). \n\nНа этом докладе мы представляем наши главные запуски, делимся планами на будущее и рассказываем, почему MWS Cloud Platform — это не просто облачная инфраструктура для развития вашего бизнеса, а надёжный технологический партнёр.\n\nСпикеры: \n• Павел Воронин, CEO MWS\n• Игорь Зарубинский, исполнительный директор MWS, CEO MWS Cloud\n• Данила Дюгуров, CTO MWS\n• Даниил Пивоваров, CPO MWS Cloud Platform\n• Иван Ефимов, CTO KION\n\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AOb45il0yws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AOb45il0yws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AOb45il0yws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AOb45il0yws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AOb45il0yws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AOb45il0yws"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "AOb45il0yws",
+        "videoPublishedAt": "2025-11-10T14:52:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-_mruXc2H7Vrhj1_a7dqdXiBHF0",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LlNqSUxGS2VvcEF3",
+      "snippet": {
+        "publishedAt": "2025-11-10T13:44:59Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "IaaS — это база | Родион Цалкин",
+        "description": "Доклад из технического трека конференции MWS Cloud Day '25\n\nСпикер: Родион Цалкин, IaaS Product Lead, MWS Cloud Platform\nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nВсе любят обсуждать AI и модные PaaS-сервисы. А мы говорим о том, без чего всё это превращается в карточный домик — про IaaS. Фундамент облака должен быть предельно скучным и предсказуемым. Но именно он решает, выдержит ли ваша инфраструктура реальную нагрузку или сложится в самый ответственный момент. Говорим о технологиях и подходах, которые ещё недавно считались чем-то особенным, а сегодня уже становятся новой нормой для современных облаков",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SjILFKeopAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SjILFKeopAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SjILFKeopAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SjILFKeopAw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SjILFKeopAw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SjILFKeopAw"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "SjILFKeopAw",
+        "videoPublishedAt": "2025-11-10T13:44:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etfGPiOxqz2cuV3CdLwSvj_hUBo",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnhtbE5ra0FXRG9j",
+      "snippet": {
+        "publishedAt": "2025-11-10T13:00:10Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Модель ресурсов — единый язык облака | Андрей Халиуллин",
+        "description": "Доклад из технического трека конференции MWS Cloud Day '25.\n\nСпикер: Андрей Халиуллин, руководитель направления Core Platform Services, MWS Cloud Platform. \nСмотреть все доклады конференции: https://youtube.com/playlist?list=PL8pIeULWZdYEqZe377yUmAbJ8B9TOGJC1&si=X-6kUT9ZgB_XJbkd\n\nСоздание облака — это задача, сопряжённая со множеством вызовов: от согласования работы сотен инженеров до проработки унифицированного и качественного опыта взаимодействия клиентов с облаком как платформой. Для её решения мы ввели дополнительный слой абстракции — модель ресурсов. Это особый язык, на котором инженеры и продуктовая команда проектируют сервисы, обсуждают решения и даже думают. \n\nВ докладе рассказываем о единой концепции, на базе которой строятся все без исключения сервисы нашего облака. Объясняем, как мы пришли к ресурсной модели и как она устроена, даём ключ к пониманию общих принципов работы всего облака и разбираем, как эта внутренняя абстракция напрямую влияет на опыт наших клиентов.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xmlNkkAWDoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xmlNkkAWDoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xmlNkkAWDoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xmlNkkAWDoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xmlNkkAWDoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xmlNkkAWDoc"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "xmlNkkAWDoc",
+        "videoPublishedAt": "2025-11-10T13:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QpzNodXEFFCazkZ5U35f2EAWjSs",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmJsVC1BNVhLOUdJ",
+      "snippet": {
+        "publishedAt": "2025-11-01T06:46:01Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "MWS Cloud Day: Бизнес-трек",
+        "description": "MWS Cloud Day — первая технологическая конференция MWS про облака.\n\nВ главных ролях бизнес-трека — облачные технологии и AI. Вас ждут доклады про ключевые тренды и современные практики работы в облаке. Поговорим про облачную кибербезопасность, зрелые практики разработки и эксплуатации облаков, интересные кейсы использования облачных сервисов и, конечно, про искусственный интеллект.\n\nРасписание докладов: mws.ru/cloud-day\nТелеграм-канал конференции: https://t.me/mwscloudday\nТелеграм-канал MWS: https://t.me/MTSWebServices",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/blT-A5XK9GI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/blT-A5XK9GI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/blT-A5XK9GI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/blT-A5XK9GI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/blT-A5XK9GI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "blT-A5XK9GI"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "blT-A5XK9GI",
+        "videoPublishedAt": "2025-11-01T06:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MOqcUqFfH5DoOHVNhLTdsw7nDns",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lm5TRk9TOXB0NkFR",
+      "snippet": {
+        "publishedAt": "2025-11-01T05:23:24Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "MWS Cloud Day: Главный доклад и технический трек",
+        "description": "MWS Cloud Day — первая технологическая конференция MWS про облака.\n\nВ главной роли в техническом треке — MWS Cloud Platform — новая облачная платформа MWS собственной разработки. Расскажем о технологиях и архитектурных решениях под капотом, анонсируем новые сервисы, поделимся кейсами первых клиентов. А ещё поговорим о том, как синергия AI и облаков помогает создавать прорывные продукты.\n\nРасписание докладов: mws.ru/cloud-day\nТелеграм-канал конференции: https://t.me/mwscloudday\nТелеграм-канал MWS: https://t.me/MTSWebServices",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nSFOS9pt6AQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nSFOS9pt6AQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nSFOS9pt6AQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nSFOS9pt6AQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nSFOS9pt6AQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nSFOS9pt6AQ"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "nSFOS9pt6AQ",
+        "videoPublishedAt": "2025-11-01T05:23:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JX0LmGaqcpA4hy8aiCQ8sR0lcEg",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmIzLUt4NDBuTjZz",
+      "snippet": {
+        "publishedAt": "2025-10-17T15:08:36Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "HR-Tech: что про нас знают работодатели",
+        "description": "Сегодня мы отправляемся в космическое путешествие по миру данных.\n\nВ 12 выпуске обсуждаем данные в HR-аналитике: «земные» и «космические». Что это такое и почему некоторые компании умеют предсказывать эффективность кандидатов, а другим сложно посчитать количество сотрудников — разбираемся в новом выпуске Pro Данные! \n\nА также: \n- современные подходы к HR-аналитике;\n- трансформацию HR-процессов с внедрением цифровых технологий; \n- роль data governance в управлении персоналом. \n\nВ гостях:\nЕгор Ворогушин, директор департамента бизнес-решений и цифровой трансформации Softline\nНикита Алёнкин, продуктовый менеджер ИИ-проектов MWS\nОля Погорельцева, аналитик MWS, ведущая \n\nТайм-коды:\n00:04:18 Что такое данные в HR, их объем и виды\n00:12:13 Задачи HR-аналитики\n00:19:40 Роли и заказчики HR-аналитики в корпорациях\n00:22:31 Насколько можно доверять данным и моделям в HR\n00:35:29 Оценка soft skills: возможности и сложности\n00:40:17 Возможности использования ИИ-агентов для оценки soft skills\n00:46:39 Портрет компании, которая нуждается в HR-аналитике\n00:49:26 Этика сбора и использования данных сотрудников\n01:00:00 Вопросы от MWS GPT\n\nПрисоединяйтесь к нам в соцсетях:\nTelegram – https://t.me/MTSWebServices\nVK – https://vk.com/mtswebservices\nДругие выпуски подкаста Pro Данные: https://vkvideo.ru/playlist/-38818370_4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b3-Kx40nN6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b3-Kx40nN6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b3-Kx40nN6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b3-Kx40nN6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b3-Kx40nN6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b3-Kx40nN6s"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "b3-Kx40nN6s",
+        "videoPublishedAt": "2025-10-17T15:08:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tnH5Mw4zCSXLekm1GhYUjz7_ZAE",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lk82Wi1CaVlxRVlF",
+      "snippet": {
+        "publishedAt": "2025-10-09T23:10:24Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Реалити-проект Building the Cloud. Episode 8: Managed Kubernetes",
+        "description": "Building the Cloud — это реалити-проект для разработчиков про разработку облака с нуля. В прямом эфире раскрываем архитектурные секреты MWS Cloud Platform — нового публичного облака MWS.\n\nПриглашаем на первую технологическую конференцию MWS про облака — MWS Cloud Day.\nРегистрация по ссылке: https://mws.ru/cloud-day/?utm_source=reality&utm_campaign=cloudday2025&utm_content=yt\n\nПопробуйте сервисы новой платформы: https://mws.ru/cloud-platform/?utm_source=reality_yt_playlist\n\nВ 8-м выпуске проекта рассказываем, как устроен сервис Managed Kubernetes в новой платформе.\nСпикеры:\nАндрей Контяков — Software Engineer, команда Kubernetes Product\nЛеонид Скрябин — Software Engineer, команда Kubernetes RnD\n\n🎬 Смотрите другие выпуски проекта\nhttps://youtube.com/playlist?list=PL8pIeULWZdYF0_RQbZBzKZDwMZHlGLGZ2&feature=shared \n\nСледите за анонсами новых выпусков на странице проекта:\nhttps://mws.ru/building-the-cloud/?utm_source=yt_playlist\n\n⚙️ Ещё больше технического контента про строительство облака — на Хабре в хабе Раработка публичных облаков\nhttps://habr.com/ru/search/?q=MWSCloudPlatform&target_type=posts&order=date\n__\nПодписывайтесь на нас в соцсетях:\nTelegram — https://t.me/MTSWebServices\nСайт — https://mws.ru/\nVK — https://vk.com/mtswebservices",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6Z-BiYqEYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6Z-BiYqEYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6Z-BiYqEYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O6Z-BiYqEYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O6Z-BiYqEYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O6Z-BiYqEYE"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "O6Z-BiYqEYE",
+        "videoPublishedAt": "2025-10-09T23:10:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MwrWnk_GR4vnC0Bbpi5UhmNlvyI",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LjBqMjU0X05iU0ln",
+      "snippet": {
+        "publishedAt": "2025-10-07T21:25:05Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «7 неудобных вопросов к облачным 1С»",
+        "description": "Большинство серверов для 1С — это типовые решения. Мы отказались от шаблонного подхода и создали надёжное прозрачное кастомное решение, адаптировав облако по реальным запросам клиентов. На этом вебинаре вы узнаете, ответы на ключевые вопросы бизнеса к облачным 1С.\n\nСпикеры:\nЧубенко Станислав, Product Owner сервисов 1С, MWS\nБердников Иван, Ведущий системный архитектор 1С, MWS\n\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0j254_NbSIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0j254_NbSIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0j254_NbSIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0j254_NbSIg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0j254_NbSIg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0j254_NbSIg"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "0j254_NbSIg",
+        "videoPublishedAt": "2025-10-07T21:25:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1NlK08WEhNmjfqLxep33MsiKWz8",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkdRYkhqQkpmb0ow",
+      "snippet": {
+        "publishedAt": "2025-09-23T21:29:17Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Как создать AI-агента без кода»",
+        "description": "На этом вебинаре мы покажем, как с помощью платформы MWS GPT можно создать AI-агента без использования кода, а также поделимся частыми практиками использования.\n\nСпикеры:\nПавел Бабин, CPO MWS GPT\nАлсу Иовкова, Менеджер продуктов, MWS AI services\n\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GQbHjBJfoJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GQbHjBJfoJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GQbHjBJfoJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GQbHjBJfoJ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GQbHjBJfoJ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GQbHjBJfoJ0"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "GQbHjBJfoJ0",
+        "videoPublishedAt": "2025-09-23T21:29:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cPeZYrhaakGVJiYU1fEWwjhfjZ0",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lkk1bWxfcFpGSDVV",
+      "snippet": {
+        "publishedAt": "2025-09-22T08:39:06Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Демократизация ML: почему порог входа в ИИ и ML снижается",
+        "description": "В новом, 11-м выпуске обсуждаем, почему порог входа в ИИ снижается и как на это влияет интерес среднего и малого бизнеса. А также: \n\n•\u200e Какие кейсы популярны на рынке ИИ и ML\n•\u200e В каких сферах перспективнее внедрять модели искусственного интеллекта.\n\nВ гостях:\nДмитрий Якунин, CEO MyDataHub\nМурад Мамедов, product MLOps MWS\nАндрей Савин, project manager MWS\nОля Погорельцева, аналитик MWS, ведущая\n\nТайм-коды:\n00:01:16 — Предпосылки популяризации ML\n00:06:07 — Финансовые аспекты внедрения ИИ в бизнес\n00:10:30 — Технические сложности внедрения моделей и платформ\n00:17:50 — Различия между внедрением ИИ в малый бизнес и крупные компании\n00:21:13 — Кейсы использования ML в крупных компаниях, кастомизация моделей под нужды бизнеса\n00:27:30 — Jobs to be done: что LLM может на себя забрать\n00:31:09 — Перспективные сферы для внедрения ML\n00:44:00 — AutoML как инструмент автоматизации работы дата-сайентистов\n00:46:10 — Вопросы от MWS GPT\n\nПрисоединяйтесь к нам в соцсетях:\nTelegram – https://t.me/MTSWebServices\nVK – https://vk.com/mtswebservices\nДругие выпуски подкаста Pro Данные: https://vkvideo.ru/playlist/-38818370_4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I5ml_pZFH5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I5ml_pZFH5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I5ml_pZFH5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I5ml_pZFH5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I5ml_pZFH5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I5ml_pZFH5U"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "I5ml_pZFH5U",
+        "videoPublishedAt": "2025-09-22T08:39:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RbbTrsIR2M0Vi91vqBPRZBYO-O0",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnBoeDQ1T2x6Z1Fn",
+      "snippet": {
+        "publishedAt": "2025-09-15T08:09:36Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Как спрятать Control Plane Kubernetes от любопытных глаз, Каиржан Аубекеров, МТС Web Services",
+        "description": "Если вы строите публичное или приватное облако у себя в компании, то для надёжности и безопасности Kubernetes кластера вы вряд ли захотите давать пользователям доступ к Control Plane Kubernetes. \n\nКакими способами и инструментами спрятать Control Plane Kubernetes от любопытных глаз, ещё и с учётом Cluster API, рассказал Каиржан Аубекеров, МТС Web Services, на конференции по безопасности контейнеров — БеКон 2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/phx45OlzgQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/phx45OlzgQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/phx45OlzgQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/phx45OlzgQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/phx45OlzgQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "phx45OlzgQg"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "phx45OlzgQg",
+        "videoPublishedAt": "2025-09-15T08:09:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4Vu0wevb7iKwD431MTm2Kdgh9K0",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Ljg1MFZhLWRYVkNR",
+      "snippet": {
+        "publishedAt": "2025-09-12T21:51:59Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Офисные приложения: тренды и миграция на отечественное ПО»",
+        "description": "На нашем вебинаре мы расскажем, как грамотно провести миграцию на российские решения и повысить эффективность цифровых коммуникаций в компании.\n\nСпикеры: \nРоман Овчинников, Product Owner, MWS \nСтанислав Старовойтов, Product Owner, MWS\nИван Семенов, Ведущий инженер по миграции, MWS\n\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/850Va-dXVCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/850Va-dXVCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/850Va-dXVCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/850Va-dXVCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/850Va-dXVCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "850Va-dXVCQ"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "850Va-dXVCQ",
+        "videoPublishedAt": "2025-09-12T21:51:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gUNIzheBVW7I2MZNNGG1eKslbOM",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Llp5a0M1QkQ2UlhJ",
+      "snippet": {
+        "publishedAt": "2025-08-28T20:53:01Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Виртуальные десктопы в облаке: как с ними работать?»",
+        "description": "Начинаем серию практических вебинаров, где вместе с экспертами MTC Web Services разберём технические этапы внедрения облачных сервисов с нуля. На первом вебинаре поговорим об особенностях реализации и уникальных преимуществах нашего сервиса MWS VDI на базе VM Cloud.\n\nСпикеры:\nСергей Романенко, Product Owner VDI MWS\nАнтон Коваленченко, Архитектор решений VDI MWS\n\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZykC5BD6RXI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZykC5BD6RXI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZykC5BD6RXI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZykC5BD6RXI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZykC5BD6RXI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZykC5BD6RXI"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "ZykC5BD6RXI",
+        "videoPublishedAt": "2025-08-28T20:53:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Z45t-UPYD7OCaOlXNt95nGvSc1o",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkRiOE82QXA5c3ZZ",
+      "snippet": {
+        "publishedAt": "2025-08-15T10:00:21Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Кибербезопасность внутри компании",
+        "description": "Почему важно следить за кибербезопасностью не только «снаружи», но и внутри компании?\n\nОбъясняет Роман Панин, эксперт по кибербезопасности, в новом эпизоде подкаста КИБЕРликБЕЗ от MWS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Db8O6Ap9svY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Db8O6Ap9svY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Db8O6Ap9svY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Db8O6Ap9svY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Db8O6Ap9svY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Db8O6Ap9svY"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "Db8O6Ap9svY",
+        "videoPublishedAt": "2025-08-15T10:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m5MHNBISkSHRLwCDlkECu-UQnZw",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LlNVcTkwQnNoMHdj",
+      "snippet": {
+        "publishedAt": "2025-08-14T15:00:46Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Как работает принцип Security in Depth",
+        "description": "Как работает принцип Security in depth или эшелонированная безопасность? \n\nВ новом выпуске подкаста КИБЕРликБЕЗ от MWS рассказывает Роман Панин, эксперт по кибербезопасности.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUq90Bsh0wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUq90Bsh0wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUq90Bsh0wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SUq90Bsh0wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SUq90Bsh0wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SUq90Bsh0wc"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "SUq90Bsh0wc",
+        "videoPublishedAt": "2025-08-14T15:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UESeLqv7rrjHe24GWme6M6sS81Y",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmJablhyQTQwMGxz",
+      "snippet": {
+        "publishedAt": "2025-08-13T20:55:57Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Онлайн-дискуссия «Что такое MWS Data? Как мы создавали платформу для работы с данными»",
+        "description": "Обработка данных — это дорого, сложно и медленно. Данные хранятся в разных системах, пайплайны ломаются, качество страдает, а TCO растёт. \nНа вебинаре расскажем, как с этим справляется новая платформа MWS Data. Это cloud native решение для хранения и обработки данных. В основе — архитектура Lakehouse, но мы не ограничились ею. Мы объединили лучшие практики и добавили инструменты для ETL, Data Governance и BI.\n\nСпикеры:\nАлександр Виноградов, СPO MWS Data\nВасилий Тюбек, CTO Центра Big Data\n\n__\nПодписывайтесь на нас в соцсетях:\nTelegram – https://t.me/MTCWebServices\nСайт – https://mws.ru/\nVK – https://vk.com/mtswebservices (сюда можно написать нам по поводу мерча)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bZnXrA400ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bZnXrA400ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZnXrA400ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bZnXrA400ls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bZnXrA400ls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bZnXrA400ls"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "bZnXrA400ls",
+        "videoPublishedAt": "2025-08-13T20:55:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d6T3IRjIAPdBenjNmDzMVc20S8Y",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmRIcTFfV1hiZHRj",
+      "snippet": {
+        "publishedAt": "2025-08-13T09:23:59Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Подкаст КИБЕРликБЕЗ: принцип разделения полномочий",
+        "description": "Что это и как он работает при построении архитектуры информационной безопасности обсудили в новом выпуске.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dHq1_WXbdtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dHq1_WXbdtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dHq1_WXbdtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dHq1_WXbdtc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dHq1_WXbdtc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dHq1_WXbdtc"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "dHq1_WXbdtc",
+        "videoPublishedAt": "2025-08-13T09:23:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_UGBo5sXlqvYu8CXd_9QylBPafg",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkJpTFBPN09QTTl3",
+      "snippet": {
+        "publishedAt": "2025-08-13T09:19:13Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Принцип нулевого доверия в ИБ",
+        "description": "Внимательная служба безопасноти и принцип нулевого доверия: как они взаимосвязаны?\n\nОбъясняет Роман Панин, эксперт по кибербезопасности, в новом выпуске подкаста КИБЕРликБЕЗ от MWS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BiLPO7OPM9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BiLPO7OPM9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BiLPO7OPM9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BiLPO7OPM9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BiLPO7OPM9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BiLPO7OPM9w"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "BiLPO7OPM9w",
+        "videoPublishedAt": "2025-08-13T09:19:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ENOLh5IPfWhNegGF2u5lefs6U9o",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Ll8xak8yYUQtVkpv",
+      "snippet": {
+        "publishedAt": "2025-08-13T09:13:47Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Как появилась архитектура ИБ?",
+        "description": "В новом выпуске КИБЕРликБЕЗ от MWS Роман Панин, эксперт по кибербезопасности, рассказал о появлении архитектуры информационной безопасности.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_1jO2aD-VJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_1jO2aD-VJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1jO2aD-VJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_1jO2aD-VJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_1jO2aD-VJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_1jO2aD-VJo"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "_1jO2aD-VJo",
+        "videoPublishedAt": "2025-08-13T09:13:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3ZTV2i2mEDB12CXiHhbLyUI7DBQ",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LlVUNzBmd2JVc2Vz",
+      "snippet": {
+        "publishedAt": "2025-08-06T12:27:14Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "AI-автоматизация: как построить команду с нуля и перестать перекладывать задачи руками?",
+        "description": "Вместе с Никитой мы обсудили его десятилетний путь в компании: от поддержки мобильного интернета до создания нового направления. Разобрались, как AI помогает оптимизировать бизнес-процессы, в чём разница между обычной автоматизацией и AI-агентами, и какие технологии лежат в основе: RAG, MCP и Fine-tuning. И, конечно, поговорили о том, как с нуля построить команду, которая будет менять компанию изнутри, и какие «ленивые» инженеры для этого нужны.\n\nГость — Никита Казарян, руководитель направления AI-автоматизации, МТС Web Services \nВедущий — Эдгар Сипки, Developer Advocate, МТС Web Services.\n\n\n🎬 Ссылка на плейлист: https://www.youtube.com/playlist?list=PL8pIeULWZdYGA_sZw1TtkzliRigmBiziO\n\n💻 Карьера в MWS: https://mws.ru/vacancies \n\n🎧 Подкаст можно слушать в аудиоверсии:\n«Яндекс Музыка»: https://music.yandex.ru/album/34456353\nApple Podcasts: https://podcasts.apple.com/us/podcast/%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B6%D0%B8%D1%82%D0%B5-%D0%BF%D1%80%D0%BE-mws/id1784906719 \nMave Digital: https://tellaboutmws.mave.digital/\n\nТаймкоды:\n0:21 - Приветствие\n0:37 - Немного про Никиту\n12:15 - Почему нужен отдел AI автоматизации?\n16:09 - Как интегрироваться с другими командами?\n24:20 - Переобучать или расширять контекст?\n33:50 - Может ли AI менять бизнес?\n43:10 - Кого будем выкидывать из бизнеса?\n45:10 - Прощаемся",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UT70fwbUses/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UT70fwbUses/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UT70fwbUses/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UT70fwbUses/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UT70fwbUses/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UT70fwbUses"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "UT70fwbUses",
+        "videoPublishedAt": "2025-08-06T12:27:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o0mkPTJ8e9EjXEMafOa11AbCTgY",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnE5R2NNSTZ3UWVZ",
+      "snippet": {
+        "publishedAt": "2025-07-30T09:35:34Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Смотрите ИТ-сериал Building the Cloud от MWS и узнайте секреты облаков",
+        "description": "Building the Cloud — инженерный видеосериал в формате реалити о создании\nMWS Cloud Platform и её архитектуре изнутри.\n\nВ каждом выпуске разбираем, как работают сервисы нового облака под капотом, делимся реальными инженерными решениями и общаемся со зрителями в прямом эфире.\n\n#облака #cloudcomputing #cloud #инфраструктура #cloudplatform #buildingthecloud #mwscloudplatform #облако #objectstorage #mwscloud #mws",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q9GcMI6wQeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q9GcMI6wQeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q9GcMI6wQeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q9GcMI6wQeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q9GcMI6wQeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q9GcMI6wQeY"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "q9GcMI6wQeY",
+        "videoPublishedAt": "2025-07-30T09:35:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ascy-ZK-VC48g_IogEOzQkm1xoQ",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LmU3NUw1dHZaOGNF",
+      "snippet": {
+        "publishedAt": "2025-07-29T08:40:53Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "КИБЕРликБЕЗ: архитектура информационной безопасности",
+        "description": "Во втором выпуске подкаста КИБЕРликБЕЗ мы обсуждаем архитектуру информационной безопасности: что это и почему она важна для современного бизнеса? \n\nГости выпуска: \n\nРоман Панин, независимый эксперт по кибербезопасности, автор Телеграм-канала «Пакет Безопасности»\nРоман Ермаков, technical product owner, Security Services MWS\nДимитрий Муштаков, product owner MWS\n\nТаймкоды:\n06:00 Что такое архитектура ИБ?\n09:50 Security by Design \n15:25 Принципы Zero trust и Default deny \n22:20 Принципы минимизации и разделения полномочий\n27:50 Security in depth и эшелонированная защита \n31:40 Fail safe: как работает этот принцип?\n38:15 Почему невозможно создать универсальную архитектуру безопасности? \n42:40 Какие ошибки чаще всего совершают неопытные архитекторы? \n46:43 Основные источники опасности: от кого защищаться?\n50:15 Как стать архитектором безопасности?\n54:00 Какие направления архитектуры ИБ используются?\n\nПрисоединяйтесь к нам в соцсетях:\nTelegram – https://t.me/MTSWebServices\nVK – https://vk.com/mtswebservices",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e75L5tvZ8cE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e75L5tvZ8cE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e75L5tvZ8cE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e75L5tvZ8cE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e75L5tvZ8cE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e75L5tvZ8cE"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "e75L5tvZ8cE",
+        "videoPublishedAt": "2025-07-29T08:40:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_p9_CxCgMC3dL-jPIL9HCqfqFNI",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lm1KQm0yMzBXSkl3",
+      "snippet": {
+        "publishedAt": "2025-07-24T16:01:24Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Чем будут заниматься дата-инженеры в 2030 году?",
+        "description": "Рубрика «Вопросы от MWS GPT» в юбилейном выпуске подкаста Pro Данные от MWS.\nПодписывайтесь на нас, что не пропустить анонсы новых выпусков!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJBm230WJIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJBm230WJIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJBm230WJIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mJBm230WJIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mJBm230WJIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mJBm230WJIw"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "mJBm230WJIw",
+        "videoPublishedAt": "2025-07-24T16:01:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WvtgLVNoLx3C-gI7maFOSCB50_Y",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LlZSMElrb1BEOUlj",
+      "snippet": {
+        "publishedAt": "2025-07-24T14:17:09Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Реалити-проект Building the Cloud. Episode 7: Block Storage",
+        "description": "Building the Cloud — это реалити-проект для разработчиков про разработку облака с нуля. В прямом эфире раскрываем архитектурные секреты MWS Cloud Platform — нового публичного облака MWS.\n\n☁️ Попробуйте сервисы MWS Cloud Platform\nhttps://mws.ru/cloud-platform/?utm_source=reality_yt_..\n\nВ 7-м выпуске проекта рассказываем, как устроен Block Storage новой платформы.\n\nСпикер:\nАлексей Баранов — руководитель направления Data Storage Systems в MWS Cloud Platform\n\nСледите за анонсами новых выпусков на странице проекта:\nhttps://mws.ru/building-the-cloud\n\n🎬 Смотрите другие выпуски проекта\nhttps://youtube.com/playlist?list=PL8pIeULWZdYF0_RQbZBzKZDwMZHlGLGZ2&feature=shared \n\n⚙️ Ещё больше технического контента про строительство облака — в хабе DevCloud от MWS на Хабр:\nhttps://habr.com/ru/search/?q=MWSCloudPlatform\n\nТаймкоды\n00:00 Почему хранить данные сложно\n04:40 Как облако создаёт диски ВМ\n09:40 Бэкапы, образы, снэпшоты\n14:40 Что влияет на скорость создания диска\n24:40 Как диск аттачится к ВМ\n32:15 Под капотом наших дисков: agent, SPDK, vhost-user, SCSI\n38:30 Что пользователю нужно от дисков?\n45:20 Как построить storage мечты? Ответ нейросети\n58:32 Почему мы выбрали SCSI?\n1:00:10 Наш опыт с SPDK\n1:01:43 И ещё немного про SCSI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VR0IkoPD9Ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VR0IkoPD9Ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VR0IkoPD9Ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VR0IkoPD9Ic/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VR0IkoPD9Ic/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VR0IkoPD9Ic"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "VR0IkoPD9Ic",
+        "videoPublishedAt": "2025-07-24T14:17:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R3y7nZgyDqDIo5aNMT2bOlpphRc",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LlI3bUgwUGRzbmtV",
+      "snippet": {
+        "publishedAt": "2025-07-24T08:00:34Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Замена технологий внутри компаний — как понять, когда обновлять Lakehouse?",
+        "description": "Рассказал Олег Гиацинтов, технический директор DIS Group, в новом выпуске подкаста Pro Данные от MWS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R7mH0PdsnkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R7mH0PdsnkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R7mH0PdsnkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R7mH0PdsnkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R7mH0PdsnkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R7mH0PdsnkU"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "R7mH0PdsnkU",
+        "videoPublishedAt": "2025-07-24T08:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D8S_oRdsgNEqSGP14SYiM71H_sg",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkxrelJxb3k3akVR",
+      "snippet": {
+        "publishedAt": "2025-07-22T11:30:28Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Влияет ли Lakehouse на бизнес-метрики?",
+        "description": "Скорость и качество выполнения задач — важные аспекты бизнес-процессов. Как Lakehouse может повлиять на них — отвечает Олег Гиацинтов, технический директор DIS Group.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LkzRqoy7jEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LkzRqoy7jEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LkzRqoy7jEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LkzRqoy7jEQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LkzRqoy7jEQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LkzRqoy7jEQ"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "LkzRqoy7jEQ",
+        "videoPublishedAt": "2025-07-22T11:30:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ycm62zRoUFLjQw20nX32DncO710",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LjUyYXZLTkx4Z1VN",
+      "snippet": {
+        "publishedAt": "2025-07-22T11:26:00Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Есть ли минусы у Lakehouse?",
+        "description": "Рассказали эксперты из DIS Group и Arenadata в новом эпизоде подкаста Pro Данные от MWS. \nПосмотреть полный выпуск можно по кнопке ниже.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/52avKNLxgUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/52avKNLxgUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/52avKNLxgUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/52avKNLxgUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/52avKNLxgUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "52avKNLxgUM"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "52avKNLxgUM",
+        "videoPublishedAt": "2025-07-22T11:26:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DImDgUPx_Wy52C-r-GjYTgp7eBM",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LnVIMjFTTmFvOXVZ",
+      "snippet": {
+        "publishedAt": "2025-07-22T11:21:28Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Что такое Lakehouse и на какие компоненты можно его разложить?",
+        "description": "В новом выпуске подкаста Pro Данные на этот и другие вопросы отвечает Олег Гиацинтов, технический директор DIS Group. Смотрите полный выпуск на канале МТС Web Services и подписывайтесь на нас в соцсетях!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uH21SNao9uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uH21SNao9uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uH21SNao9uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uH21SNao9uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uH21SNao9uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uH21SNao9uY"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "uH21SNao9uY",
+        "videoPublishedAt": "2025-07-22T11:21:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CTs9eYoo9YB7PUucZEnlJ2lpX_E",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3Lnd1Qlpuamg0T25N",
+      "snippet": {
+        "publishedAt": "2025-07-18T08:58:51Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Lakehouse: почему дом данных всё время на реконструкции",
+        "description": "Встречайте 10-й юбилейный выпуск подкаста Pro Данные! Вместе с экспертами из Arenadata и DIS Group обсуждаем Lakehouse. Почему компании сейчас активно присматриваются к этой архитектуре и всем ли стоит туда идти?\n\nВ гостях: \nАлексей Быков, product owner, Arenadata\nОлег Гиацинтов, технический директор DIS Group\nПавел Чёботов, product owner облачных хранилищ данных MWS\nОля Погорельцева, аналитик MWS, ведущая \n\nТаймкоды: \n00:00:38 Приветствие и тема выпуска\n00:02:04 Какие проблемы решает Lakehouse\n00:07:50 Ключевые новшества Lakehouse \n00:13:33 На какие бизнес-метрики влияет Lakehouse \n00:19:23 Что такое Lakehouse и на какие компоненты его можно разложить\n00:29:15 Для каких бизнес-задач подходит Lakehouse: кейсы из разных сфер\n00:39:27 Критерии выбора Data Lakehouse \n00:49:10 Lakehouse vs Hadoop и DWH\n00:53:17 Cloud native — хранение данных в облачных моделях\n00:55:10 Рубрика «Вопросы от MWS GPT»\n\nПрисоединяйтесь к нам в соцсетях:\nTelegram – https://t.me/MTSWebServices\nVK – https://vk.com/mtswebservices",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wuBZnjh4OnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wuBZnjh4OnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wuBZnjh4OnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wuBZnjh4OnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wuBZnjh4OnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wuBZnjh4OnM"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "wuBZnjh4OnM",
+        "videoPublishedAt": "2025-07-18T08:58:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A-FalpyU7zlqzG6kPnNbQlPg_oI",
+      "id": "VVV4d2thRF90Sy1iUV9oQjNaRkJlU3d3LkQ2VENNeUNpeWpv",
+      "snippet": {
+        "publishedAt": "2025-07-10T12:36:56Z",
+        "channelId": "UCxwkaD_tK-bQ_hB3ZFBeSww",
+        "title": "Радио, телефоны и фрикинг: как развивалась  информационная безопасность?",
+        "description": "В новом подкасте от MTC Web Services спикеры обсудили, какие этапы были на пути формирования современной кибербезопасности. \n\nГости выпуска: \n\nАнастасия Ашаева, cтарший научный сотрудник Музея Криптографии\nРоман Ермаков, technical product owner, Security Services \nДимитрий Муштаков, product owner",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D6TCMyCiyjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D6TCMyCiyjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D6TCMyCiyjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D6TCMyCiyjo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D6TCMyCiyjo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MTС Web Services",
+        "playlistId": "UUxwkaD_tK-bQ_hB3ZFBeSww",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D6TCMyCiyjo"
+        },
+        "videoOwnerChannelTitle": "MTС Web Services",
+        "videoOwnerChannelId": "UCxwkaD_tK-bQ_hB3ZFBeSww"
+      },
+      "contentDetails": {
+        "videoId": "D6TCMyCiyjo",
+        "videoPublishedAt": "2025-07-10T12:36:56Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 210,
+    "resultsPerPage": 50
+  }
+}
