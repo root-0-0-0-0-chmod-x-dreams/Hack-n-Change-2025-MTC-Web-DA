@@ -6,11 +6,11 @@
 ```txt
 root@0.0.0.0: chmod +x dreams
 ```
-- **Капитан и Data Engineer** - Георгий Селиванов ()
+- **Капитан и Data Engineer** - [Георгий Селиванов](https://t.me/GE_OS)
 > Изучил документацию API Youtube, VK. Разработал и вручную протестировал пайплайн извлечения  данных, подробнее [здесь](Интеграционная-схема-1/Примеры-запросов-ответов/yt-requests-task.md).
-- **Frontend Developer** -  Савва Пономарёв 
+- **Frontend Developer** -  [Савва Пономарёв](https://t.me/BrainPumpkin)
 > Изучил API Openrouter. Разработал ИИ Чат виджет, подробнее в [Readme](AiChatWidget/README.md).
-- **Backend Developer** - Тимофей Ивлев
+- **Backend Developer** - [Тимофей Ивлев](https://t.me/timofeq_1)
 > Изучил интеграционную схему MWS Tables. Реализовал cхему в файле Интеграционная-схема-1/Импорт данных из ютьюб канала.json. Подробнее в [Readme](Интеграционная-схема-1/README.md).
 
 ## Описание проекта
