@@ -1,14 +1,15 @@
 // tableService.js - API integration for table data
 export class TableService {
-  constructor(apiToken) {
+  constructor(apiToken, datasheetId, defaultViewId) {
     this.apiToken = apiToken;
     this.baseURL = 'https://tables.mws.ru/fusion/v1';
-    this.datasheetId = 'dstjG1N3uvLFeF64X9';
+    this.datasheetId = datasheetId;
+    this.defaultViewId = defaultViewId;
   }
 
   async fetchRecords(options = {}) {
     const {
-      viewId = 'viwaiHmHTClHK',
+      viewId = this.defaultViewId,
       pageNum = 1,
       pageSize = 100,
       fieldKey = 'name',

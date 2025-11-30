@@ -6,12 +6,16 @@ import { TableService } from './tableService';
 import { MarkdownRenderer } from './MarkdownRenderer';
 import './chat.css';
 
+// Инициализация сервисов с переменными окружения
+const llmService = new LLMService('YOUR_LLM_TOKEN');
 
-const llmService = new LLMService('YOUR LLM API');
-const tableService = new TableService('YOUR TABLE API');
+const tableService = new TableService(
+  'YOUR_MWS_TABLE_TOKEN',
+  'YOUR_TABLE_SHEETID',
+  'YOUR_VIEWID'
+);
 
-
-export const AiChatWidget = () => {
+export const HelloWorld = () => {
   const [messages, setMessages] = useState([]);
   const [inputMessage, setInputMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -20,16 +24,13 @@ export const AiChatWidget = () => {
   const textareaRef = useRef(null);
   const streamingContentRef = useRef('');
 
-
   useEffect(() => {
     loadTableData();
   }, []);
 
-
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages]);
-
 
   useEffect(() => {
     if (textareaRef.current) {
@@ -38,11 +39,9 @@ export const AiChatWidget = () => {
     }
   }, [inputMessage]);
 
-
   const loadTableData = async () => {
     try {
       const response = await tableService.fetchRecords({
-        viewId: 'viwaiHmHTClHK',
         fieldKey: 'name'
       });
       
@@ -55,10 +54,8 @@ export const AiChatWidget = () => {
     }
   };
 
-
   const handleSendMessage = async () => {
     if (!inputMessage.trim() || isLoading) return;
-
 
     const userMessage = {
       id: Date.now().toString(),
@@ -67,15 +64,12 @@ export const AiChatWidget = () => {
       timestamp: new Date()
     };
 
-
     setMessages(prev => [...prev, userMessage]);
     setInputMessage('');
     setIsLoading(true);
 
-
     const assistantMessageId = `assistant-${Date.now()}`;
     streamingContentRef.current = '';
-
 
     setMessages(prev => [...prev, {
       id: assistantMessageId,
@@ -83,7 +77,6 @@ export const AiChatWidget = () => {
       role: 'assistant',
       timestamp: new Date()
     }]);
-
 
     try {
       const messageHistory = messages.filter(m => m.role !== 'assistant' || m.content);
@@ -102,7 +95,6 @@ export const AiChatWidget = () => {
         ];
       }
 
-
       await llmService.sendMessage(openrouterMessages, (chunk) => {
         streamingContentRef.current += chunk;
         
@@ -120,7 +112,6 @@ export const AiChatWidget = () => {
         temperature: 0.7
       });
 
-
     } catch (error) {
       console.error('Error sending message:', error);
       setMessages(prev => 
@@ -136,14 +127,12 @@ export const AiChatWidget = () => {
     }
   };
 
-
   const handleKeyPress = e => {
     if (e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault();
       handleSendMessage();
     }
   };
-
 
   return (
     <div style={{ display: 'flex', height: '100%', width: '100%' }}>
@@ -197,5 +186,4 @@ export const AiChatWidget = () => {
   );
 };
 
-
-initializeWidget(AiChatWidget, process.env.WIDGET_PACKAGE_ID);
+initializeWidget(HelloWorld, process.env.WIDGET_PACKAGE_ID);
